@@ -15,6 +15,6 @@ het <- data$het_rate
 
 #Plot histogram and export as PNG
 png(filename = HetPNG, width = 1000, height = 600)
-hist(het, breaks = 25, xlim = c(15,45), main = "Heterozygosity by Individual", xlab = "Heterozygosity by Individual (% heterozygosity rate)", ylab = "Count")
+hist(het, breaks = 25, xlim = c(15,45), main = "Heterozygosity by Individual", xlab = "Total heterozygosity by individual", ylab = "Count")
 
 dev.off()
