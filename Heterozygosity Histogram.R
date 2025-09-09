@@ -1,4 +1,4 @@
-## This script plots the heterozygosity across all samples, based off of SNP genotypes.
+## This script plots heterozygosity across all samples, based off of SNP genotypes.
 ## Heterozygosity is calculated for each sample by Axiom Analysis Suite.
 
 ## As per Larsen et al. 2018 (https://doi.org/10.1371/journal.pone.0201889), this can be a diagnostic feature to distinguish diploid from triploid apples. 
